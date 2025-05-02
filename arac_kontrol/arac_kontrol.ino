@@ -1,7 +1,7 @@
 // Açıklama: Joystick ile 4 tekerli basit araç kontrolü
 // Description: Simple 4-wheel vehicle control with joystick.
 // @author: Hamza Eren Sarpdağ
-// Date: 14.09.2004  -  12.14
+// Date: 14.09.2024  -  12.14
 
 // Elimizde bir joystick ile sol ve sağ tekerler için birer motor sürücü olduğunu varsayalım.
 // Let's assume we have a motor driver for the left and right wheels and have a joystick.
